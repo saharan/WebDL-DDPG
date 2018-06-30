@@ -1,7 +1,7 @@
 WebDL-DDPG
 ---
 
-A library for deep reinforcement learning
+A library for deep reinforcement learning. The article about this library [is here](http://el-ement.com/blog/2018/06/30/full-ddpg/) (Japanese).
 
 ## Features
 * Supports GPU (WebGL for JavaScript platform and CUDA for Python platform)
